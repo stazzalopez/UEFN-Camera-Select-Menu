@@ -1,0 +1,1 @@
+Simply place the Verse file inside your Content folder and compile it, then put the PNG file into the Texture folder within Content. After that, add the required camera devices to the editor and you’re all set.
